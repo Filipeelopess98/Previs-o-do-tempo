@@ -1,7 +1,7 @@
 <h1> Previsão do Tempo </h1>
   
 
-<h2> Funcionidades inclusas </h2>
+<h2> Funcionalidades inclusas  </h2>
 <p> - Temperatura </p>
 <p> - Temperatura Máxima e Mínima  </p>
 <p> - Sensação Térmica  </p>
