@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(https://img.freepik.com/fotos-gratis/lindo-lago-azul-cercado-por-montanhas-verdes-na-nova-zelandia_181624-42482.jpg?w=1380&t=st=1696777922~exp=1696778522~hmac=503fd0e8e79eddccd39b7a11afd2927685ac8443a5e4060357038d705870c7f2);
+    background-image: url(https://img.freepik.com/fotos-gratis/paisagem-do-rio-de-janeiro-cercada-pelo-mar-sob-um-ceu-azul-no-brasil_181624-17265.jpg?w=1380&t=st=1696887841~exp=1696888441~hmac=3bbf3f523ee2cdec2778e4926c0100e154ad671219e7ca547416b0e1221c6804);
 }
 
 .big-box {
@@ -171,7 +171,7 @@ button {
     margin-bottom: 10px;
     color: #ffffff9a;
     font-weight: 600;
-    font-size: 13px;
+    font-size: 18px;
     text-align: center;
     margin-top: 30px;
 }

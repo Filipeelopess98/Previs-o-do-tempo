@@ -14,6 +14,7 @@ function dataonscreen(data) {
     document.querySelector(".line").innerHTML = " |  "
     document.querySelector(".speed").innerHTML = "💨" + "  " + "Vento:" + "    " + data.wind.speed + "  " + "km/h"
     document.querySelector(".icon").src = `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`
+    document.querySelector(".name").innerHTML = "Previsão do Tempo | Filipe Lopes 2023 ®"
 
 }
 
