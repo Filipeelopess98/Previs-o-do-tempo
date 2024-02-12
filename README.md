@@ -1,13 +1,12 @@
 <h1> Previsão do Tempo </h1>
-
+<p>O projeto de previsão do tempo utiliza dados meteorológicos da máquina para prever as condições meteorológicas em uma determinada cidade</p>
 <br>
-<h4> Nesse projeto foi utilizado as seguintes tecnologias </h4>
+<h4> Nesse projeto foi utilizei as seguintes tecnologias </h4>
 <br>
 
 - <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt=logo-html />
  
 - <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt=logo-css />
-
 
 - <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
